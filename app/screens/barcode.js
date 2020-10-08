@@ -1,0 +1,1 @@
+import Barcodescanner from 'react-native-barcodescanner';
